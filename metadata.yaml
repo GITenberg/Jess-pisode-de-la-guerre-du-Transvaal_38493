@@ -1,0 +1,38 @@
+_repo: Jess-pisode-de-la-guerre-du-Transvaal_38493
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dronsart, M. (Marie)
+    alias: Dronsart, Marie
+    gutenberg_agent_id: '39496'
+    url: http://www.gutenberg.org/2009/agents/39496
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38493'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Transvaal (South Africa) -- Fiction'
+- !lcc 'PR'
+title: 'Jess: Épisode de la guerre du Transvaal'
+url: http://www.gutenberg.org/ebooks/38493
