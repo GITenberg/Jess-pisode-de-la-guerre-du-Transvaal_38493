@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38493#Jess-pisode-de-la-guerre-du-Transvaal
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2012-01-04'
 gutenberg_type: Text
